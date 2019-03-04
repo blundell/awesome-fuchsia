@@ -80,7 +80,7 @@ Scenic is a Garnet service that composes graphical objects from multiple process
 - [Source](https://fuchsia.googlesource.com/garnet/+/master/public/lib/escher/) Escher source code
 
 
-## Amber (updater)
+### Amber (updater)
 Amber is an update system with the ambition of updating all components running on a Fuchsia system whether that component is a kernel, a bootloader, a system service, an application, etc.
 
   - [Introduction](https://fuchsia.googlesource.com/garnet/+/refs/heads/master/go/src/amber/README.md) Short introduction to Amber
