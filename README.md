@@ -49,7 +49,7 @@ It is created by Google and completely [open source](https://fuchsia.googlesourc
 
 ![](Art/layers.jpg)
 
-## Zircon (kernel)
+## Zircon (microkernel)
 Zircon is the core platform that powers the Fuchsia OS. Zircon is composed of a microkernel as well as a small set of userspace services, drivers, and libraries necessary for the system to boot, talk to hardware, load userspace processes and run them, etc.
 
 - [Quick Start Recipes](https://fuchsia.googlesource.com/fuchsia/+/master/zircon/docs/getting_started.md) Build Zircon on your machine
