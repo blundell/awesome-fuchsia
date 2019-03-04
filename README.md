@@ -46,6 +46,7 @@ It is created by Google and completely [open source](https://fuchsia.googlesourc
 
 - [Fuchsia Glossary](https://fuchsia.googlesource.com/fuchsia/+/master/docs/glossary.md) Provides short definitions for a collection of technical terms used in Fuchsia
 - [Layers of Fuchsia](https://9to5google.com/2018/03/16/fuchsia-friday-the-four-layers-of-fuchsia/) Short but complete 9To5Google Article
+- [Fuchsia Overview](https://www.androidcentral.com/fuchsia) Introduction to Fuchsia and outlook to it's possible future
 
 ![](Art/layers.jpg)
 
