@@ -2,9 +2,7 @@
   <img src="Art/awesome-fuchsia.svg">
 </a>
 <p align="center">
-  <a href="https://github.com/leisim/awesome-fuchsia">
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
-  </a>
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   <a href="https://travis-ci.com/leisim/awesome-fuchsia">
     <img src="https://img.shields.io/travis/com/leisim/awesome-fuchsia.svg" />
   </a>
@@ -84,7 +82,7 @@ Scenic is a Garnet service that composes graphical objects from multiple process
 Amber is an update system with the ambition of updating all components running on a Fuchsia system whether that component is a kernel, a bootloader, a system service, an application, etc.
 
   - [Introduction](https://fuchsia.googlesource.com/garnet/+/refs/heads/master/go/src/amber/README.md) Short introduction to Amber
-  - [The Update Framework](http://theupdateframework.com/) Basis for Amber's update distribution
+  - [The Update Framework](https://theupdateframework.com/) Basis for Amber's update distribution
   - [9To5Google Article](https://9to5google.com/2018/03/09/fuchsia-friday-amber-keeps-fuchsia-up-to-date-and-secure/) This article gives an easy to understand introduction to Amber
 - [Source](https://fuchsia.googlesource.com/garnet/+/refs/heads/master/go/src/amber/) Amber source code
 
@@ -115,7 +113,7 @@ Topaz contains four major categories of software: modules, agents, shells, and r
 
 For example, modules include the calendar, email, and terminal modules, shells include the base shell and the user shell, agents include the email and chat content providers, and runners include the Web, Dart, and Flutter runners.
 
-- [Simple App](https://fuchsia.googlesource.com/topaz/+/HEAD/examples/mine_digger/) Very simple Flutter App for Fuchsia
+- [Simple App](https://fuchsia.googlesource.com/topaz/+/HEAD/examples/ui/simple_flutter) Very simple Flutter App for Fuchsia
 - [Mine Sweeper](https://fuchsia.googlesource.com/topaz/+/HEAD/examples/mine_digger/) Flutter implementation of minesweeper for Fuchsia
 [Source](https://fuchsia.googlesource.com/topaz/+/refs/heads/master) Topas source code
 
