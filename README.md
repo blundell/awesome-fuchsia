@@ -115,7 +115,7 @@ For example, modules include the calendar, email, and terminal modules, shells i
 
 - [Simple App](https://fuchsia.googlesource.com/topaz/+/HEAD/examples/ui/simple_flutter) Very simple Flutter App for Fuchsia
 - [Mine Sweeper](https://fuchsia.googlesource.com/topaz/+/HEAD/examples/mine_digger/) Flutter implementation of minesweeper for Fuchsia
-[Source](https://fuchsia.googlesource.com/topaz/+/refs/heads/master) Topas source code
+- [Source](https://fuchsia.googlesource.com/topaz/+/refs/heads/master) Topas source code
 
 
 
