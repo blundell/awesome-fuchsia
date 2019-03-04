@@ -27,7 +27,7 @@ It is created by Google and completely [open source](https://fuchsia.googlesourc
 - [Architecture](#Architecture)
 - [Development](#Development)
 - [Emulators](#Emulators)
-- [Communities](#Communities)
+- [Community](#Community)
 
 
 
@@ -168,9 +168,9 @@ A Fuchsia package is one or more collections of files that provide one or more p
 
 
 
-# Communities
+# Community
 
-- [Reddit](https://www.reddit.com/r/Fuchsia/) News and information about Fuchsia on Reddit
+- [r/Fuchsia](https://www.reddit.com/r/Fuchsia/) Fuchsia subreddit with news and information about Fuchsia
 
 
 
