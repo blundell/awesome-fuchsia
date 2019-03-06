@@ -54,7 +54,7 @@ Zircon is the core platform that powers the Fuchsia OS. Zircon is composed of a 
 - [Source](https://fuchsia.googlesource.com/zircon/+/refs/heads/master/system/) - Zircon source code
 
 ## Garnet 
-Garnet is the first Fuchsia layer above the kernel. It contains a variety of low-level things that every OS needs including device drivers (network, graphics, etc) and software installation. The Garmet UI services are called `Mozart`.
+Garnet is the first Fuchsia layer above the kernel. It contains a variety of low-level things that every OS needs including device drivers (network, graphics, etc) and software installation. The Garnet UI services are called `Mozart`.
 
 ### Scenic (graphics engine)
 Scenic is a Garnet service that composes graphical objects from multiple processes into a shared scene graph. The objects can cast shadows or reflect light onto each other, even if the originating processes have no knowledge of each other.
