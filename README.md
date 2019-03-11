@@ -31,6 +31,7 @@ It is created by Google and completely [open source](https://fuchsia.googlesourc
 
 
 # Latest News
+- [Fuchsia Press Weekly - Newsletter](https://www.xriblu.com/fuchsia-press-weekly) *[Weekly]* - Hand-picked round up of the best Fuchsia development links every week
 - [Fuchsia on AMD Chromebooks](https://9to5google.com/2019/03/01/google-fuchsia-amd-chromebooks/) *[03/01/19]* - Google is working on bringing Fuchsia OS to AMD-based Chromebooks
 - [Android app support](https://9to5google.com/2019/01/02/android-runtime-app-support-fuchsia/) *[01/02/19]* - Fuchsia OS confirmed to have Android app support via Android Runtime
 - [Android Emulator supports Fuchsia](https://9to5google.com/2018/12/05/android-emulator-fuchsia-zircon/) *[12/05/19]* - The official Android Emulator is picking up support for Fuchsia’s Zircon kernel
